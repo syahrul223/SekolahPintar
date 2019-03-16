@@ -1,3 +1,5 @@
+Baca Sampai Selesai :)
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
@@ -74,46 +76,46 @@ Untuk penjelasan aplikasi nya, mari kita simak baik-baik :)
 Dibawah ini merupakan Operasi Create, Update, dan Delete pada data Mata Pelajaran
 
 ### Menambah Data Mata Pelajaran
-![1](image/tambahPelajaran/1.png)
+![1](https://user-images.githubusercontent.com/42232274/54476751-8a293880-4833-11e9-99ab-89e0f23b611b.PNG)
 
 Tekan button yang ada dibawah tabel.
 
-![2](image/tambahPelajaran/2.png)
+![2](https://user-images.githubusercontent.com/42232274/54476754-8f868300-4833-11e9-89f6-d88375bea883.PNG)
 
 Isi Formulir Data Mata Pelajaran.
 
-![3](image/tambahPelajaran/3.png)
+![3](https://user-images.githubusercontent.com/42232274/54476756-957c6400-4833-11e9-9a4f-13a67e408803.PNG)
 
 Apabila Sudah Selesai, maka submit formulir
 
-![4](image/tambahPelajaran/4.png)
+![4](https://user-images.githubusercontent.com/42232274/54476757-9f05cc00-4833-11e9-8cea-236260d77a3f.PNG)
 
 Maka Data yang tadi ditambahkan akan tercantum pada Tabel Mata Pelajaran
 
 ### Mengubah Data Mata Pelajaran
-![1](image/ubahPelajaran/1.png)
+![1](https://user-images.githubusercontent.com/42232274/54476779-d1172e00-4833-11e9-81be-db50f96d4276.PNG)
 
 Pilih Data mana yang akan diubah, apabila sudah memilih maka tekan button edit pada gambar diatas
 
-![2](image/ubahPelajaran/2.png)
+![2](https://user-images.githubusercontent.com/42232274/54476781-d1172e00-4833-11e9-8c53-589c1f05fdc3.PNG)
 
 Maka, akan tersedia form dan inputnya akan terisi oleh data sebelumnya
 
-![3](image/ubahPelajaran/3.png)
+![3](https://user-images.githubusercontent.com/42232274/54476782-d1afc480-4833-11e9-8402-f6d348dce795.PNG)
 
 Ubahlah data tersebut, apabila sudah maka submit data tersebut
 
-![4](image/ubahPelajaran/4.png)
+![4](https://user-images.githubusercontent.com/42232274/54476783-d1afc480-4833-11e9-8830-f5c679d3d745.PNG)
 
 Data akan terubah dengan semestinya
 
 ### Menghapus Data Mata Pelajaran
 
-![1](image/hapusPelajaran/1.png)
+![1](https://user-images.githubusercontent.com/42232274/54476807-03289000-4834-11e9-91bb-15e08665df5f.PNG)
 
 Pilih Data Mana yang akan dihapus, lalu tekan button seperti gambar diatas
 
-![2](image/hapusPelajaran/2.png)
+![2](https://user-images.githubusercontent.com/42232274/54476808-03289000-4834-11e9-9f2a-e3a0fcde0c78.PNG)
 
 Data Telah Terhapus
 
@@ -122,46 +124,46 @@ Data Telah Terhapus
 Dibawah ini merupakan Operasi Create, Update, dan Delete pada data Guru
 
 ### Menambah Data Guru
-![1](image/tambahGuru/1.png)
+![1](https://user-images.githubusercontent.com/42232274/54476823-1dfb0480-4834-11e9-9a06-89be973ed9a0.PNG)
 
 Tekan button yang ada dibawah tabel.
 
-![2](image/tambahGuru/2.png)
+![2](https://user-images.githubusercontent.com/42232274/54476824-1e939b00-4834-11e9-8fdc-6926044b1d35.PNG)
 
 Isi Formulir Data Guru.
 
-![3](image/tambahGuru/3.png)
+![3](https://user-images.githubusercontent.com/42232274/54476825-1e939b00-4834-11e9-9119-a2cac7fb839f.PNG)
 
 Apabila Sudah Selesai, maka submit formulir
 
-![4](image/tambahGuru/4.png)
+![4](https://user-images.githubusercontent.com/42232274/54476826-1f2c3180-4834-11e9-910b-fa54093eedeb.PNG)
 
 Maka Data yang tadi ditambahkan akan tercantum pada Tabel Daftar Guru
 
 ### Mengubah Data Guru
-![1](image/ubahGuru/1.png)
+![1](https://user-images.githubusercontent.com/42232274/54476837-48e55880-4834-11e9-9cda-92068151975d.PNG)
 
 Pilih Data mana yang akan diubah, apabila sudah memilih maka tekan button edit pada gambar diatas
 
-![2](image/ubahGuru/2.png)
+![2](https://user-images.githubusercontent.com/42232274/54476838-497def00-4834-11e9-9353-9ac8ffb17df9.PNG)
 
 Maka, akan tersedia form dan inputnya akan terisi oleh data sebelumnya
 
-![3](image/ubahGuru/3.png)
+![3](https://user-images.githubusercontent.com/42232274/54476839-4a168580-4834-11e9-8f0e-f91c1c695d77.PNG)
 
 Ubahlah data tersebut, apabila sudah maka submit data tersebut
 
-![4](image/ubahGuru/4.png)
+![4](https://user-images.githubusercontent.com/42232274/54476840-4a168580-4834-11e9-972f-944fd6d49279.PNG)
 
 Data akan terubah dengan semestinya
 
 ### Menghapus Data Guru
 
-![1](image/hapusGuru/1.png)
+![1](https://user-images.githubusercontent.com/42232274/54476870-8fd34e00-4834-11e9-9254-8998a1c555db.PNG)
 
 Pilih Data Mana yang akan dihapus, lalu tekan button seperti gambar diatas
 
-![2](image/hapusGuru/2.png)
+![2](https://user-images.githubusercontent.com/42232274/54476871-906be480-4834-11e9-8031-21523b84f1f2.PNG)
 
 Data Telah Terhapus
 
