@@ -53,7 +53,7 @@ Jadi, web ini hanya untuk memasukan data guru dan mata pelajaranya.
 
 untuk pengerjaan, saya hanya menggunakan 2 tabel dari database saja.
 
-![Web Sekolah Pintar](https://raw.githubusercontent.com/syahrul223/SekolahPintar/image/DataGuru.png)
+![Web Sekolah Pintar](image/DataGuru.png?raw=true)
 ![Web Sekolah Pintar](image/DataPelajaran.png)
 
 bisa dilihat dari gambar diatas, terdapat 2 tombol di pojok atas. tombol tersebut merupakan sebuah
