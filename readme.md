@@ -53,19 +53,19 @@ Jadi, web ini hanya untuk memasukan data guru dan mata pelajaranya.
 
 untuk pengerjaan, saya hanya menggunakan 2 tabel dari database saja.
 
-![Web Sekolah Pintar](/image/DataGuru.png)
-![Web Sekolah Pintar](/image/DataPelajaran.png)
+![DataGuru](https://user-images.githubusercontent.com/42232274/54476651-729d8000-4832-11e9-90cd-b925b1b78a0c.PNG)
+![DataPelajaran](https://user-images.githubusercontent.com/42232274/54476685-e3449c80-4832-11e9-9b9b-c7e4e9aadf6e.PNG)
 
 bisa dilihat dari gambar diatas, terdapat 2 tombol di pojok atas. tombol tersebut merupakan sebuah
 routing untuk ke sebuah halaman. Tapi, tidak perlu meload untuk mengakses halaman tersebut.
 
 Untuk work tree nya bisa dilihat pada gambar berikut
 
-![Worktree1](image/WorkTreeLumen.png)
+![WorkTreeLumen](https://user-images.githubusercontent.com/42232274/54476708-0ec78700-4833-11e9-8b5b-f55ec3202784.PNG)
 
 Untuk frontend nya...
 
-![Worktree2](image/WorkTreeFrontend.png)
+![WorkTreeFrontend](https://user-images.githubusercontent.com/42232274/54476720-269f0b00-4833-11e9-862c-4f17bf7bde17.PNG)
 
 Untuk penjelasan aplikasi nya, mari kita simak baik-baik :)
 
