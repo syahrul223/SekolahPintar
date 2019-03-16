@@ -47,7 +47,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-#Aplikasi Sekolah Pintar
+# Aplikasi Sekolah Pintar
 
 Jadi, web ini hanya untuk memasukan data guru dan mata pelajaranya.
 
