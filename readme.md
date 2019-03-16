@@ -1,5 +1,9 @@
 Pusing Submodulenya :V
 
+jadi dipisah link frontendnya dibawah, tapi di project lumen nya sudah tercantum disana "vuefrontend"
+
+[DISINI!!!](https://github.com/syahrul223/FrontendSekolahPintar)
+
 Baca Sampai Selesai :)
 
 # Lumen PHP Framework
