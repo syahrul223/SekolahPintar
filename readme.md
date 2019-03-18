@@ -4,7 +4,7 @@ jadi dipisah link frontendnya dibawah, tapi di project lumen nya sudah tercantum
 
 [DISINI!!!](https://github.com/syahrul223/FrontendSekolahPintar)
 
-Baca Sampai Selesai :)
+Baca Sampai bawah :)
 
 # Lumen PHP Framework
 
